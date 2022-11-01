@@ -15,7 +15,7 @@ public class MainQueue {
     static File f;
     static QueueV2 q = new QueueV2("./prints.csv");
     static List<String> mats = Arrays.asList("PLA", "PETG", "TPU", "Resin", "Laser", "Machining", "Other...");
-    static List<String> purposes = Arrays.asList("Personal", "103", "310r", "494", "Other...");
+    static List<String> purposes = Arrays.asList("Personal", "103", "310r", "494", "Capstone", "Other...");
     static Scanner s = new Scanner(System.in);
 
     public static void main(String[] args) throws IOException {

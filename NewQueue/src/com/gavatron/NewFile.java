@@ -26,40 +26,45 @@ public class NewFile {
         System.out.println("\nLast name:"); //1
         in.add(format(s.nextLine().trim()));
 
-        System.out.println("\nEmail:"); //2
-        in.add(s.nextLine().trim());
+//        System.out.println("\nEmail:"); //2
+//        in.add(s.nextLine().trim());
+        in.add("ah yes email");
 
-        System.out.println("\nUse (enter 1 - " + purposes.size() + "): "); //3
-        for (int i = 0; i < purposes.size(); i++) {
-            System.out.println((i + 1) + ": " + purposes.get(i));
-        }
+//        System.out.println("\nUse (enter 1 - " + purposes.size() + "): "); //3
+//        for (int i = 0; i < purposes.size(); i++) {
+//            System.out.println((i + 1) + ": " + purposes.get(i));
+//        }
 
-        {
-            int selection = Integer.parseInt(s.nextLine().trim()) - 1;
+//        {
+//            int selection = Integer.parseInt(s.nextLine().trim()) - 1;
+//
+//            if ((selection + 1) != purposes.size())
+//                in.add(purposes.get(selection));
+//            else {
+//                System.out.println("\nEnter custom use: ");
+//                in.add(format(s.nextLine().trim()));
+//            }
+//        }
 
-            if ((selection + 1) != purposes.size())
-                in.add(purposes.get(selection));
-            else {
-                System.out.println("\nEnter custom use: ");
-                in.add(format(s.nextLine().trim()));
-            }
-        }
+        in.add("ah yes purpose");
 
-        System.out.println("\nMaterial (enter 1 - " + mats.size() + "): "); //4
-        for (int i = 0; i < mats.size(); i++) {
-            System.out.println((i + 1) + ": " + mats.get(i));
-        }
+//        System.out.println("\nMaterial (enter 1 - " + mats.size() + "): "); //4
+//        for (int i = 0; i < mats.size(); i++) {
+//            System.out.println((i + 1) + ": " + mats.get(i));
+//        }
+//
+//        {
+//            int material = Integer.parseInt(s.nextLine().trim()) - 1;
+//
+//            if ((material + 1) != mats.size())
+//                in.add(mats.get(material));
+//            else {
+//                System.out.println("\nEnter custom material: ");
+//                in.add(format(s.nextLine().trim()));
+//            }
+//        }
 
-        {
-            int material = Integer.parseInt(s.nextLine().trim()) - 1;
-
-            if ((material + 1) != mats.size())
-                in.add(mats.get(material));
-            else {
-                System.out.println("\nEnter custom material: ");
-                in.add(format(s.nextLine().trim()));
-            }
-        }
+        in.add("ah yes material");
 
         if (folder) { //5
             in.add(format(f.getName().trim()));

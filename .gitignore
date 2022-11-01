@@ -1,0 +1,18 @@
+
+AutoSlicer/path.json
+*.gcode
+New print/path.json
+NewQueue/path.json
+Print queue/path.json
+QueueManager/path.json
+*.stl
+*.prefs
+Makerspace logging system/.classpath
+Makerspace logging system/.project
+AutoSlicer/.classpath
+New print/.classpath
+Print queue/Done/running.txt
+*.ctb
+Print queue/Gqueue/queue.txt
+Print queue/settings.json
+Print queue/src/com/gavatron/Testing.java

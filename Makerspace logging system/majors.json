@@ -1,0 +1,97 @@
+{
+    "agriculture": [
+            "Bachelor of Science in Agricultural and Technology Education",
+            "Bachelor of Science in Agricultural Business",
+            "Bachelor of Science in Animal Science",
+            "Bachelor of Science in Cell Biology and Neuroscience",
+            "Bachelor of Science in Environmental Horticulture",
+            "Bachelor of Science in Environmental Sciences",
+            "Bachelor of Science in Financial Engineering",
+            "Bachelor of Science in Microbiology",
+            "Bachelor of Science in Natural Resources and Rangeland Ecology",
+            "Bachelor of Science in Plant Science",
+            "Bachelor of Science in Ranching Systems",
+            "Bachelor of Science in Sustainable Food & Bioenergy Systems"
+        
+    ],
+    "arts-architecture": [
+        "Bachelor of Arts in Art",
+        "Bachelor of Arts in Environmental Design",
+        "Bachelor of Arts in Film and Photography",
+        "Bachelor of Arts in Music",
+        "Bachelor of Arts in Music Technology",
+        "Bachelor of Fine Arts in Art",
+        "Bachelor of Music Education"
+    ],
+    "business-entrepreneurship": [
+        "Bachelor of Science in Business"
+    ],
+    "education-development": [
+        "Bachelor of Science in Community Health",
+        "Bachelor of Science in Early Childhood Education and Child Services",
+        "Bachelor of Science in Elementary Education K-8",
+        "Bachelor of Science in Food and Nutrition",
+        "Bachelor of Science in Health and Human Performance",
+        "Bachelor of Science in Health Enhancement K-12 (Health and Physical Education)",
+        "Bachelor of Science in Hospitality Mangement",
+        "Bachelor of Science in Human Development and Family Science",
+        "Bachelor of Science in Secondary Education",
+        "Bachelor of Science in Sustainable Food & Bioenergy Systems"
+    ],
+    "engineering": [
+        "Bachelor of Arts in Computer Science",
+        "Bachelor of Science in Biological Engineering",
+        "Bachelor of Science in Chemical Engineering",
+        "Bachelor of Science in Civil Engineering",
+        "Bachelor of Science in Computer Engineering",
+        "Bachelor of Science in Construction Engineering Technology",
+        "Bachelor of Science in Electrical Engineering",
+        "Bachelor of Science in Environmental Engineering",
+        "Bachelor of Science in Financial Engineering",
+        "Bachelor of Science in Industrial and Management Systems Engineering",
+        "Bachelor of Science in Mechanical Engineering",
+        "Bachelor of Science in Mechanical Engineering Technology",
+        "Bachelor of Science Interdisciplinary Option",
+        "Bachelor of Science Professional Option"
+    ],
+    "letters-science": [
+        "Bachelor of Arts in American Studies",
+        "Bachelor of Arts in Asian Studies",
+        "Bachelor of Arts in English",
+        "Bachelor of Arts in History",
+        "Bachelor of Arts in Liberal Studies",
+        "Bachelor of Arts in Modern Languages and Literatures",
+        "Bachelor of Arts in Philosophy",
+        "Bachelor of Arts in Political Science",
+        "Bachelor of Science in Anthropology",
+        "Bachelor of Science in Biological Sciences (Department of Ecology)",
+        "Bachelor of Science in Chemistry and Biochemistry",
+        "Bachelor of Science in Earth Sciences",
+        "Bachelor of Science in Economics",
+        "Bachelor of Science in Mathematics",
+        "Bachelor of Science in Physics",
+        "Bachelor of Science in Psychology",
+        "Bachelor of Science in Sociology"
+    ],
+    "nursing": [
+        "Bachelor of Science in Nursing"
+    ],
+    "gallatin": [
+        "Associate of Applied Science in Aviation",
+        "Associate of Applied Science in Culinary Arts",
+        "Associate of Applied Science in Cyber Security & Information Assurance",
+        "Associate of Applied Science in Design Drafting Technology",
+        "Associate of Applied Science in Interior Design",
+        "Associate of Applied Science in Photonics and Laser Technology",
+        "Associate of Arts",
+        "Associate of Science",
+        "Certificate of Applied Science in Bookkeeping",
+        "Certificate of Applied Science in CNC Machine Technology",
+        "Certificate of Applied Science in Health Information Coding",
+        "Certificate of Applied Science in HVAC, and Refrigeration.",
+        "Certificate of Applied Science in Medical Assistant",
+        "Certificate of Applied Science in Network Technology",
+        "Certificate of Applied Science in Welding Technology",
+        "Professional Certificate in Business Management"
+    ]
+}
